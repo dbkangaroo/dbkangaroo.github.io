@@ -1,0 +1,84 @@
+{
+    "advertise": [
+        {
+            "id": 21022401,
+            "group": "image",
+            "locale": "zh",
+            "datetime": "2021-02-24T18:35:50.000Z",
+            "title": "袋鼠数据库工具官方网站",
+            "tooltip": "袋鼠数据库工具官方网站",
+            "showcase": "https://www.datatable.online/cases/ads-sample.gif",
+            "location": "https://www.datatable.online/zh/"
+        },
+        {
+            "id": 21022402,
+            "group": "image",
+            "locale": "zh",
+            "datetime": "2021-02-24T18:35:50.000Z",
+            "title": "袋鼠数据库工具官方网站",
+            "tooltip": "袋鼠数据库工具官方网站",
+            "showcase": "https://www.datatable.online/cases/ads-sample.png",
+            "location": "https://www.datatable.online/zh/"
+        },
+        {
+            "id": 21022403,
+            "group": "image",
+            "locale": "en",
+            "datetime": "2021-02-24T18:35:50.000Z",
+            "title": "袋鼠数据库工具官方网站",
+            "tooltip": "袋鼠数据库工具官方网站",
+            "showcase": "https://www.datatable.online/cases/ads-minions.gif",
+            "location": "https://www.datatable.online/en/"
+        },
+        {
+            "id": 21022404,
+            "group": "image",
+            "locale": "en",
+            "datetime": "2021-02-24T18:35:50.000Z",
+            "title": "袋鼠数据库工具官方网站",
+            "tooltip": "袋鼠数据库工具官方网站",
+            "showcase": "https://www.datatable.online/cases/ads-sample.png",
+            "location": "https://www.datatable.online/en/"
+        }
+    ],
+    "broadcast": [
+        {
+            "id": 21050501,
+            "group": "hyperlink",
+            "locale": "zh",
+            "datetime": "2021-06-05T10:00:00.000Z",
+            "title": "袋鼠数据库工具 v1.9.1 上线",
+            "tooltip": "袋鼠数据库工具 v1.9.1 上线",
+            "showcase": "袋鼠数据库工具 v1.9.1 上线",
+            "location": "https://www.datatable.online/zh/download/v1.9.1.210531.html"
+        }, {
+            "id": 21050502,
+            "group": "hyperlink",
+            "locale": "en",
+            "datetime": "2021-06-05T10:00:00.000Z",
+            "title": "Kangaroo v1.9.1 released",
+            "tooltip": "Kangaroo v1.9.1 released",
+            "showcase": "Kangaroo v1.9.1 released",
+            "location": "https://www.datatable.online/en/download/v1.9.1.210531.html"
+        }
+    ],
+    "version": [
+        {
+            "group": "devel",
+            "version": "1.9.1.210531",
+            "datetime": "2021-06-05T10:00:00.000Z",
+            "windows": "https://d4.injdk.cn/dbkangaroo/v1.9.1.210531/kangaroo-1.9.1.210531-AMD64.exe",
+            "darwin": "https://d4.injdk.cn/dbkangaroo/v1.9.1.210531/kangaroo-1.9.1.210531-macos.dmg",
+            "linux": "https://d4.injdk.cn/dbkangaroo/v1.9.1.210531/kangaroo-1.9.1.210531-ubuntu.tar.gz",
+            "force": false
+        }, {
+            "group": "stable",
+            "version": "1.0.6.201109",
+            "datetime": "2021-02-24T18:35:50.000Z",
+            "windows": "https://d4.injdk.cn/dbkangaroo/v1.0.6.201109/kangaroo-1.0.6.201109-AMD64.exe",
+            "darwin": "https://d4.injdk.cn/dbkangaroo/v1.0.6.201109/kangaroo-1.0.6.201109-macos.dmg",
+            "linux": "https://d4.injdk.cn/dbkangaroo/v1.0.6.201109/kangaroo-1.0.6.201109-ubuntu.tar.gz",
+            "force": false
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <!-- Reference: https://github.com/geany/geany-osx/blob/master/Info.plist -->
+    <dict>
+        <key>CFBundleShortVersionString</key>
+        <string>1.36</string>
+        <key>CFBundleVersion</key>
+        <string>1.36</string>
+        <key>NSHumanReadableCopyright</key>
+        <string>Copyright (C)2018-2020 The Kangaroo Team</string>
+        <key>CFBundleGetInfoString</key>
+        <string>Copyright (C)1998-2020 The Kangaroo Team http://dbkangaroo.github.io</string>
+        <key>CFBundleDevelopmentRegion</key>
+        <string>English</string>
+        <key>CFBundleName</key>
+        <string>kangaroo</string>
+        <key>GtkOSXLaunchScriptFile</key>
+        <string>launcher.sh</string>
+        <key>CFBundleExecutable</key>
+        <string>kangaroo</string>
+        <key>CFBundleIconFile</key>
+        <string>kangaroo.icns</string>
+        <key>CFBundleIdentifier</key>
+        <string>com.app.kangaroo</string>
+        <key>CFBundleInfoDictionaryVersion</key>
+        <string>6.0</string>
+        <key>CFBundlePackageType</key>
+        <string>APPL</string>
+        <key>CFBundleSignature</key>
+        <string>????</string>
+        <key>LSMinimumSystemVersion</key>
+        <string>10.9</string>
+        <key>LSApplicationCategoryType</key>
+        <string>public.app-category.developer-tools</string>
+        <key>NSHighResolutionCapable</key>
+        <true/>
+        <key>CFBundleVersion</key>
+        <string>1</string>
+        <key>NSPrincipalClass</key>
+        <string>NSApplication</string>  
+    </dict>
+</plist>
